@@ -1,4 +1,5 @@
 # Feature Adoption Analysis
+An end-to-end product analytics project built using Python to evaluate feature adoption and behavioural impact.
 
 ## Overview
 
