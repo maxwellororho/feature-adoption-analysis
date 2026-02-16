@@ -55,3 +55,11 @@ Synthetic event-based dataset including:
 2. Run `src/generate_dataset.py`
 3. Open `notebooks/feature_adoption_analysis.ipynb`
 4. Run all cells
+
+---
+
+## Full Report
+
+A detailed analytical report is available in the `report/` folder:
+Feature_Adoption_Analysis_Report.docx
+
